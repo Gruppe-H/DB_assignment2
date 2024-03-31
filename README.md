@@ -41,10 +41,10 @@ We made all the datasets into JSON files to import them into the mongodb.
 4. Is there a difference in the target reduction emissions based on whether or not the city is a member of C40 or GCoM?
 5. What difference is there between each region and their target emission?
 6. Which organization plans to reduce the most in %?
-7. What correlation is there between GDP, base emissions and target emissions?
+7. For each country, how many cities in that country is represented in the data?
 8. How many countries are represented in the data?
 9. How many have a desired target emission without a base emission?
-10. Is there a correlation between baseline year and the target emissions?
+10. What is the most commeon sector?
 
 Answers for the questions can be found under images where the result of stored prosedures and views are.
 
